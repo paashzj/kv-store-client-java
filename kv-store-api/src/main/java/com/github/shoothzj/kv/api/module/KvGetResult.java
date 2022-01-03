@@ -8,7 +8,8 @@ import lombok.extern.slf4j.Slf4j;
  */
 @Slf4j
 @Data
-public class KvGetResult {
+public class
+KvGetResult {
 
     private String content;
 
